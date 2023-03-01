@@ -1,0 +1,12 @@
+.button-blue {
+  background-color: #00ccbc;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  font-family: "lora";
+}
+.button-blue:hover {
+  opacity: 0.8;
+}
+
